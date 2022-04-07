@@ -45,3 +45,17 @@ public class ConstructData {
 
     }
 }
+////////////////////////////output/////////////////////////
+Construct Overloading
+Enter a name & ID & SALARY 
+vishl
+50
+155005
+EMPOYEE Details
+ Employee name is : vishl 
+ Employee Id : 50
+
+Employee Data With Salary
+ Employee name is : vishl 
+ Employee Id : 50 
+ Salary : 155005
