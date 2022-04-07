@@ -42,3 +42,13 @@ public class ThreeDifferMethod {
 
     }
 }
+
+///////////////////////////////////////output///////////////
+Enter the Radius Of a circle
+5
+Enter the value of width and length and height
+5 2 3
+Area of circle is : 78.5
+Area of Rectangle is : 10
+Area of Box is : 30
+
